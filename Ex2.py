@@ -4,3 +4,5 @@ force = float(userInput[userInput.index(",")+1:])
 acceleration = force/mass
 
 print("The acceleration is", acceleration)
+
+"Exercise number 2"

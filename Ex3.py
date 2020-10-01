@@ -11,4 +11,4 @@ print("A Shinigami "+ v + " my " +a + " " + n[0] + " out of the " + n[1]
       + " as if he were a vegetarian \n fishing a " + n[2] + " out of his salad")
 
 
-
+"""This is Exercise #3"""

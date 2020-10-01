@@ -10,4 +10,4 @@ def cm(feet, inches):
 
 
 print("Feet:", feet , "\nInches:", inches , "\nSuggested board length",
-      cm(feet, inches))
+      cm(feet, inches), "cm")
